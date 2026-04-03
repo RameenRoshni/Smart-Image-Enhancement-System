@@ -48,5 +48,5 @@ streamlit run app.py
 ## Tools
 Python · OpenCV · Streamlit · Matplotlib · NumPy
 
-## 👨‍💻 Author
-**Your Name** — Reg ID: XXXXXXX
+## Author
+**Rameen Roshni** — Reg ID: 235123
